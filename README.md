@@ -9,10 +9,6 @@
 </h1>
 
 <p align="center">
-  ✨ 💖 ✨ 💫 ✨ 💖 ✨
-</p>
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=20C20E&center=true&vCenter=true&width=700&height=70&lines=Energy+Data+Scientist+@+Primelectric+Holdings+Inc.+⚡;Iskolar+ng+Bayan+🌻;Forever+Curious+%26+Learning+🧠">
   </a>
