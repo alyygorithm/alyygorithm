@@ -28,4 +28,6 @@
   </a>
 </p>
 
-![gopher dancing](./dancing-gopher.gif)
+<p align="center">
+  <img src="./dancing-gopher.gif" alt="gopher dancing">
+</p>
