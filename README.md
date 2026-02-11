@@ -14,10 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yssalee&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<p align="center">
   <samp>𝐠𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡</samp>
   <br><br>
   <a href="https://www.linkedin.com/in/alyssaalexandralee/" target="_blank">
