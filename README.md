@@ -14,13 +14,18 @@
 </p>
 
 <p align="center">
-  <samp>𝐠𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡</samp>
+  <samp style="font-size:22px; letter-spacing:2px;">
+    𝐠𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡
+  </samp>
   <br><br>
+
   <a href="https://www.linkedin.com/in/alyssaalexandralee/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/alyssa.alexandra" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+![gopher dancing](./dancing-gopher.gif)
