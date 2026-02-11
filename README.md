@@ -18,10 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/line.png" width="400" height="2">
-</p>
-
-<p align="center">
   <samp>𝐠𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡</samp>
   <br><br>
   <a href="https://www.linkedin.com/in/alyssaalexandralee/" target="_blank">
