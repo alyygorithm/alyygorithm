@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Energy%20Data%20Scientist%20%40%20Primelectric%20Holdings%20Inc.,Iskolar%20ng%20Bayan,Forever%20Curious%20%26%20Learning&center=true&width=600&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?color=734DFF&center=true&vCenter=true&width=450&height=70&lines=Energy+Data+Scientist+%40+Primelectric+Holdings+Inc.;Iskolar+ng+Bayan;Forever+Curious+%26+Learning">
   </a>
 </p>
 
