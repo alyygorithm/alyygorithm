@@ -17,6 +17,7 @@
   <samp style="font-size:22px; letter-spacing:2px;">
     𝐠𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡
   </samp>
+  <br>
 
   <a href="https://www.linkedin.com/in/alyssaalexandralee/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
