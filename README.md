@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=alyygorithm&theme=blueberry" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=alyygorithm&theme=calm)](https://git.io/streak-stats)
 
 <p align="center">
   <samp style="font-size:22px; letter-spacing:2px;">
