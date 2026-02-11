@@ -28,6 +28,8 @@
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="./dancing-gopher.gif" alt="gopher dancing">
+  <img src="./dancing-gopher.gif" alt="gopher dancing" width="300">
 </p>
