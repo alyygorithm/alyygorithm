@@ -1,6 +1,16 @@
-<h1 align="center">
-  Hi, I'm Alyssa Alexandra S. Lee 🧸
+<p align="center" style="line-height:1.5; font-family: 'Comic Sans MS', 'Segoe UI', sans-serif;">
+  <img src="https://c.tenor.com/rlw3pl2kA58AAAAi/sparkle-pink.gif" width="30" style="vertical-align:middle;"> 
+  🌸✨ hai~ ✨🌸 
+  <img src="https://c.tenor.com/rlw3pl2kA58AAAAi/sparkle-pink.gif" width="30" style="vertical-align:middle;">
+</p>
+
+<h1 align="center" style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; color:#f5a9b8;">
+  🧸 I'm Alyssa Alexandra S. Lee 🧸
 </h1>
+
+<p align="center">
+  ✨💖✨💫✨💖✨
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
