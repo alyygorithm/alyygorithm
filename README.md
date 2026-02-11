@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi , I'm Alyssa Alexandra S. Lee 🧸
+  Hi, I'm Alyssa Alexandra S. Lee 🧸
 </h1>
 
 <p align="center">
