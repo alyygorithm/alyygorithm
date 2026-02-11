@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yssalee&theme=dark&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alyygorithm&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
