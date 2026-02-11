@@ -9,16 +9,21 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yssalee&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <br>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/line.png" width="400" height="2">
+</p>
+
+<p align="center">
+  <samp>𝐠𝐞𝐭 𝐢𝐧 𝐭𝐨𝐮𝐜𝐡</samp>
+  <br><br>
   <a href="https://www.linkedin.com/in/alyssaalexandralee/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/alyssa.alexandra" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
